@@ -10,13 +10,13 @@ const COMPANY = {
   name: "HVAC Company",
 
   // Phone number — displayed format
-  phone: "+1 727-637-6121",
+  phone: "+1 234-567-8912",
 
   // Phone number — raw digits for tel: links (no spaces or dashes)
-  phoneRaw: "+17276376121",
+  phoneRaw: "+12345678912",
 
   // Email address
-  email: "office@performanceab.net",
+  email: "office@hvac.com",
 
   // Primary address / location
   address: "Cape Coral, Florida",
